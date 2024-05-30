@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Upadhyay</h1>
+<h2 align="center"> some project are private </h2>
 <h3 align="center">Web Developer | Android Developer | Golang | C++ Feel Privileged while writing a optimized code, still learning with a innumerable interest in Technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-upadhyayy&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-upadhyayy" /> </p>
